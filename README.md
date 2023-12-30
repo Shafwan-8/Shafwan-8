@@ -1,4 +1,8 @@
 ### Hi there 👋
+<hr>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=4000&color=70A5FD&center=true&vCenter=true&width=435&lines=Suramat+Datang+:3" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **Shafwan-8/Shafwan-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
