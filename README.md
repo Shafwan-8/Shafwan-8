@@ -8,6 +8,7 @@
 </div>
 
 <hr />
+
 <p align="center">
   <a href="https://git.io/typing-svg">
   <img
@@ -15,6 +16,7 @@
     alt="Typing SVG" />
   </a>
 </p>
+
 <hr />
 
 <div align="center">
