@@ -1,5 +1,5 @@
 <div align="center">
-  <img 
+  <img
     height=115
     align="center"
     src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34"
