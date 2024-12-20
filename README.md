@@ -1,42 +1,32 @@
-# Hi there 👋, I'm Shafwan-8!
+<div align="center">
+  <img
+    height=115
+    align="center"
+    src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34"
+    title="wangy wangy :v"
+  />
+</div>
 
-## 🚀 About Me
-I'm a passionate developer with a keen interest in creating innovative solutions and learning new technologies. I love to work on open-source projects and contribute to the community.
+<hr />
 
-- 💻 I’m currently working on exciting projects involving [Your Current Technologies or Projects].
-- 🌱 I’m currently learning [New Technologies or Topics You Are Learning].
-- 👯 I’m looking to collaborate on [Projects or Topics You Want to Collaborate On].
-- 🤔 I’m looking for help with [Areas Where You Need Help].
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Contact Information].
-- 😄 Pronouns: They/Them.
-- ⚡ Fun fact: [A Fun Fact About You].
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3500&pause=2500&color=70A5FD&center=true&vCenter=true&width=435&lines=Suramat+Datang+:3" 
+    alt="Typing SVG" />
+  </a>
+</p>
 
-## 🛠️ Languages and Tools
-Here are some of the languages and tools I work with:
+<hr />
 
-- [List of Languages and Tools, e.g., Python, JavaScript, React, Node.js, etc.]
+<div align="center">
+  <img
+    height=130
+    src="https://github-readme-stats.vercel.app/api?username=Shafwan-8&show_icons=true&theme=merko&rank_icon=github"
+  />
+  <img
+    height=130
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafwan-8&layout=compact&theme=merko"
+  />
 
-## 📈 GitHub Stats
-![Shafwan-8's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafwan-8&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![Shafwan-8's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shafwan-8&theme=onedark)
-
-## 🌐 Connect with Me
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Profile URL)
-- [Personal Website](Your Personal Website URL)
-
-## 📚 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 📂 Projects
-Here are some of my notable projects:
-
-- [Project 1](Project 1 URL) - A brief description of Project 1.
-- [Project 2](Project 2 URL) - A brief description of Project 2.
-- [Project 3](Project 3 URL) - A brief description of Project 3.
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
+</div>
