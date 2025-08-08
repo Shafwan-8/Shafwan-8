@@ -4,6 +4,7 @@
     align="center"
     src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34"
     title="wangy wangy :v"
+    style="brightness: 1.75"
   />
 </div>
 
