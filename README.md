@@ -2,9 +2,8 @@
   <img
     height=115
     align="center"
-    src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34"
+    src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34&darkmode=0"
     title="wangy wangy :v"
-    style="filter: brightness(0%);"
   />
 </div>
 
