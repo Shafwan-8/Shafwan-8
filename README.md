@@ -3,7 +3,7 @@
     align="center"
     src="https://count.getloli.com/get/@:Shafwan-8?theme=rule34&darkmode=0"
     title="wangy wangy :v"
-    style="height: 500px; width: 500px"
+    style="height: 500px; width: 500px; margin: 0px"
   />
 </div>
 
