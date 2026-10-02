@@ -5,3 +5,15 @@
     style="height: 200px;width: 450px; margin: 0px; border: solid yellow 1px"
   />
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider"/>
+</div>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Shafwan-8&theme=transparent&hide_border=true&locale=id" 
+    alt="GitHub Streak" />
+  </a>
+</p>
